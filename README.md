@@ -1,1 +1,1 @@
-# AANPR - Advanced Automated Number Plate Recognition system
+# AANPR - Advanced Automatic Number Plate Recognition system
