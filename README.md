@@ -1,5 +1,5 @@
 # ANPR - Automatic Number Plate Recognition system
-#### Note - This project is a part of Minor Project Session 2023-24 of PPN College, Kanpur. This is not an open source project. 
+#### Note - This project is a part of Minor Project Session 2023-24 of PPN College, Kanpur. 
 ----
 The ANPR System is designed to autonomously capture, process, and 
 interpret license plate information from images or video streams 
