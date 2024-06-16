@@ -1,5 +1,5 @@
 # ANPR - Automatic Number Plate Recognition system
-----
+
 The ANPR System is designed to autonomously capture, process, and 
 interpret license plate information from images or video streams 
 acquired through surveillance cameras installed at strategic locations. 
